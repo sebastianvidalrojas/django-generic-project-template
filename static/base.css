@@ -177,6 +177,11 @@ button {
     gap: 1rem;
 }
 
+.navside-anchor {
+    font-size: 1.66rem;
+    font-weight: bold;
+}
+
 @media (max-width: 56rem) {
     body {
         overflow-x: hidden;
